@@ -4,6 +4,7 @@
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
+\usepackage{graphicx}
 
 \title{Mein erstes Dokument}
 \author{Max Mustermann}
@@ -12,7 +13,17 @@
 \begin{document}
 
 \maketitle
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=4cm]{gfx/Latex.png}
+\caption{Latext Logo}
+\label{latex_logo}
+\end{center}
+\end{figure}
+
 \tableofcontents
+
 
 \section{Einleitung}
 Hier kommt die Einleitung. Ihre Überschrift kommt automatisch in das Inhaltsverzeichnis. Das Inhaltsverzeichnis wird erst beim zweiten compilieren Angezeigt.
