@@ -1,0 +1,4 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Formeln}{1}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
